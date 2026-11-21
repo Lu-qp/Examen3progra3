@@ -53,9 +53,12 @@ Durante la comprobación vi el mensaje de carga y confirmé que se reemplazaba e
 
 ## Repositorio Git
 
-El proyecto incluye la rama `main` y su commit inicial. Para obtener un enlace de entrega, creá un repositorio remoto vacío y usá estos comandos desde la carpeta del proyecto.
+[https://github.com/Lu-qp/Examen3progra3](https://github.com/Lu-qp/Examen3progra3)
+
+El ZIP incluye la rama `main`, el historial de Git y el remoto `origin` configurado. Con Git instalado, ejecutá este comando desde la carpeta del proyecto descomprimido para subirlo a GitHub.
 
 ```bash
-git remote add origin URL_DEL_REPOSITORIO
 git push -u origin main
 ```
+
+Cuando termine, abrí el enlace y verificá que aparezcan `README.md` y la carpeta `src`.

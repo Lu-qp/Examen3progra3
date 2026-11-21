@@ -1,0 +1,11 @@
+{
+  "fecha_costa_rica": "2026-11-21T08:21:00-06:00",
+  "metodo": "GET",
+  "url": "https://villa-penas-production.up.railway.app/public/instagram",
+  "estado_http": 502,
+  "respuesta": {
+    "message": "No fue posible obtener las publicaciones de Instagram.",
+    "error": "Bad Gateway",
+    "statusCode": 502
+  }
+}
